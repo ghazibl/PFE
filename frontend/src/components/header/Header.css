@@ -1,0 +1,35 @@
+header {
+    background-color: #ffffff;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px ;
+    height: 100px;
+}
+
+
+.logo{
+    text-decoration: none;
+    color: rgb(7, 17, 221);;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2.8em;
+    padding-left: 300px;
+    
+}
+.icon{
+  color :rgb(7, 17, 221);
+  font-size: 2em;
+  
+  
+}
+
+.icon-text {
+  display: inline-flex;
+  
+  margin-right: 200px; /* Adjust margin as needed */
+  
+}

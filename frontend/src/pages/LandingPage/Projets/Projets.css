@@ -1,0 +1,12 @@
+.container {
+    margin-top: 50px;
+    width: 100%;
+  }
+  
+  .card-container {
+    display: flex;
+    overflow-x: auto; /* Permettre le défilement horizontal si nécessaire */
+  }
+  
+ 
+  

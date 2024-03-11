@@ -1,0 +1,53 @@
+
+.LoginForm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+  
+}
+.form-container {
+    max-width: 400px !important;
+   
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    
+
+   
+   
+  }
+ .titre{
+    text-align: center;
+    font-size: 40px !important;
+    padding-bottom: 70px;
+    font-weight: bold;
+    color: #007bff;
+    
+  
+ }
+  .form-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+   
+    
+  }
+  
+  .form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  
+  .error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  

@@ -1,0 +1,35 @@
+img{
+  height: 500PX;
+}
+
+.text-overlay {
+  position: absolute;
+ padding: 0px 20px;
+ margin-top: -300px;
+ 
+ color: rgb(0, 0, 0);
+  
+}
+h2{
+  color: black;
+  text-align: left;
+}
+.text-overlay h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.text-overlay .btn {
+  background-color:rgb(7, 17, 221);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-left: 350px;
+}
+
+.text-overlay .btn:hover {
+  background-color: #0056b3;
+}
